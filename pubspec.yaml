@@ -1,0 +1,45 @@
+name: adaptive_career_roadmap_builder
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 0.7.5+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase packages are still needed for authentication
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  google_sign_in: ^6.2.1
+  firebase_app_check: ^0.2.2+1
+  
+  # Add the Supabase package for calling the Edge Function
+  supabase_flutter: ^2.5.8
+
+  cupertino_icons: ^1.0.2
+
+  shared_preferences: ^2.3.2
+
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/google_logo.png
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter-Regular.ttf
+        - asset: fonts/Inter-Bold.ttf
+          weight: 700
+
