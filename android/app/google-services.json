@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "715976752753",
+    "project_id": "carrierroadmapbuilder",
+    "storage_bucket": "carrierroadmapbuilder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715976752753:android:1c19c219d5afe7ee0fa5d0",
+        "android_client_info": {
+          "package_name": "com.arnav.careercompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715976752753-rrvf88aa5c2mdm0p0evea045hcnc2cfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arnav.careercompass",
+            "certificate_hash": "3fe1868dcef53cfd8b92892854c6b89fc89433c0"
+          }
+        },
+        {
+          "client_id": "715976752753-olbv1i88rcvjnc3rall24df3ohkrrvq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKG5PPK_1eMDl_oKWmqRYaJKhA-hf7Klk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715976752753-olbv1i88rcvjnc3rall24df3ohkrrvq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715976752753-39h9qidgucoad01ckjsmc4k8s51ark2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carrierRoadmapBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715976752753:android:d5a6b54a82e571010fa5d0",
+        "android_client_info": {
+          "package_name": "com.carrierroadmap.arnav.carrierbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715976752753-olbv1i88rcvjnc3rall24df3ohkrrvq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKG5PPK_1eMDl_oKWmqRYaJKhA-hf7Klk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715976752753-olbv1i88rcvjnc3rall24df3ohkrrvq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715976752753-39h9qidgucoad01ckjsmc4k8s51ark2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carrierRoadmapBuilder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
